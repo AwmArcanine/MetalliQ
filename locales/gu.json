@@ -1,0 +1,27 @@
+
+{
+  "sidebar.dashboard": "ડેશબોર્ડ",
+  "sidebar.newStudy": "નવો અભ્યાસ",
+  "sidebar.reports": "અહેવાલો",
+  "sidebar.compare": "સરખામણી કરો",
+  "sidebar.workspaceSettings": "કાર્યસ્થળ સેટિંગ્સ",
+  "sidebar.adminPanel": "એડમિન પેનલ",
+  "sidebar.workspaces": "કાર્યસ્થળો",
+  "header.title": "MetalliQ: AI-સંચાલિત ધાતુઓની ટકાઉપણું",
+  "header.titleShort": "MetalliQ",
+  "header.welcome": "સ્વાગત છે, {name}",
+  "header.logout": "લૉગ આઉટ",
+  "dashboard.title": "{workspaceName} ડેશબોર્ડ",
+  "dashboard.subtitle": "આ કાર્યસ્થળ માટે પરિપત્ર અર્થતંત્રના યોગદાન પર ધ્યાન કેન્દ્રિત કરવું.",
+  "dashboard.newStudyButton": "+ નવો અભ્યાસ",
+  "dashboard.viewAllReportsButton": "બધા અહેવાલો જુઓ",
+  "dashboard.noData.title": "'{workspaceName}' માં હજુ સુધી કોઈ ડેટા નથી",
+  "dashboard.noData.subtitle": "તમારા પરિપત્રતા મેટ્રિક્સને ટ્રૅક કરવા અને તમારી પર્યાવરણીય અસર જોવા માટે આ કાર્યસ્થળમાં નવો જીવન ચક્ર મૂલ્યાંકન અભ્યાસ શરૂ કરો.",
+  "dashboard.noData.button": "પ્રથમ અભ્યાસ શરૂ કરો",
+  "login.title": "MetalliQ",
+  "login.subtitle": "AI-સંચાલિત ધાતુઓની ટકાઉપણું",
+  "login.signInPrompt": "સત્તાવાર પોર્ટલમાં સાઇન ઇન કરો",
+  "login.signInUser": "વપરાશકર્તા તરીકે સાઇન ઇન કરો (John Doe)",
+  "login.signInAdmin": "એડમિન તરીકે સાઇન ઇન કરો (Sarah Singh)",
+  "login.simulationNotice": "આ એક સિમ્યુલેટેડ લોગિન છે. કોઈ પાસવર્ડની જરૂર નથી."
+}

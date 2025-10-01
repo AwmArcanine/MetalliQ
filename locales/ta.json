@@ -1,0 +1,27 @@
+
+{
+  "sidebar.dashboard": "டாஷ்போர்டு",
+  "sidebar.newStudy": "புதிய ஆய்வு",
+  "sidebar.reports": "அறிக்கைகள்",
+  "sidebar.compare": "ஒப்பிடுக",
+  "sidebar.workspaceSettings": "பணியிட அமைப்புகள்",
+  "sidebar.adminPanel": "நிர்வாக குழு",
+  "sidebar.workspaces": "பணியிடங்கள்",
+  "header.title": "MetalliQ: AI-இயங்கும் உலோகங்கள் நிலைத்தன்மை",
+  "header.titleShort": "MetalliQ",
+  "header.welcome": "வருக, {name}",
+  "header.logout": "வெளியேறு",
+  "dashboard.title": "{workspaceName} டாஷ்போர்டு",
+  "dashboard.subtitle": "இந்த பணியிடத்திற்கான சுழற்சி பொருளாதார பங்களிப்புகளில் கவனம் செலுத்துகிறது.",
+  "dashboard.newStudyButton": "+ புதிய ஆய்வு",
+  "dashboard.viewAllReportsButton": "அனைத்து அறிக்கைகளையும் காண்க",
+  "dashboard.noData.title": "'{workspaceName}' இல் இன்னும் தரவு இல்லை",
+  "dashboard.noData.subtitle": "உங்கள் சுழற்சி அளவீடுகளைக் கண்காணிக்கவும், உங்கள் சுற்றுச்சூழல் தாக்கத்தைக் காணவும் இந்த பணியிடத்தில் ஒரு புதிய வாழ்க்கைச் சுழற்சி மதிப்பீட்டு ஆய்வைத் தொடங்கவும்.",
+  "dashboard.noData.button": "முதல் ஆய்வைத் தொடங்கு",
+  "login.title": "MetalliQ",
+  "login.subtitle": "AI-இயங்கும் உலோகங்கள் நிலைத்தன்மை",
+  "login.signInPrompt": "அதிகாரப்பூர்வ போர்ட்டலில் உள்நுழைக",
+  "login.signInUser": "பயனராக உள்நுழைக (John Doe)",
+  "login.signInAdmin": "நிர்வாகியாக உள்நுழைக (Sarah Singh)",
+  "login.simulationNotice": "இது ஒரு உருவகப்படுத்தப்பட்ட உள்நுழைவு. கடவுச்சொல் தேவையில்லை."
+}

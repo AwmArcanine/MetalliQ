@@ -1,0 +1,27 @@
+
+{
+  "sidebar.dashboard": "డాష్‌బోర్డ్",
+  "sidebar.newStudy": "కొత్త అధ్యయనం",
+  "sidebar.reports": "నివేదికలు",
+  "sidebar.compare": "పోల్చండి",
+  "sidebar.workspaceSettings": "వర్క్‌స్పేస్ సెట్టింగ్‌లు",
+  "sidebar.adminPanel": "అడ్మిన్ ప్యానెల్",
+  "sidebar.workspaces": "వర్క్‌స్పేస్‌లు",
+  "header.title": "MetalliQ: AI-ఆధారిత లోహాల సుస్థిరత",
+  "header.titleShort": "MetalliQ",
+  "header.welcome": "స్వాగతం, {name}",
+  "header.logout": "లాగ్ అవుట్",
+  "dashboard.title": "{workspaceName} డాష్‌బోర్డ్",
+  "dashboard.subtitle": "ఈ వర్క్‌స్పేస్ కోసం వృత్తాకార ఆర్థిక వ్యవస్థ సహకారాలపై దృష్టి సారించడం.",
+  "dashboard.newStudyButton": "+ కొత్త అధ్యయనం",
+  "dashboard.viewAllReportsButton": "అన్ని నివేదికలను వీక్షించండి",
+  "dashboard.noData.title": "'{workspaceName}'లో ఇంకా డేటా లేదు",
+  "dashboard.noData.subtitle": "మీ వృత్తాకారత మెట్రిక్‌లను ట్రాక్ చేయడానికి మరియు మీ పర్యావరణ ప్రభావాన్ని చూడటానికి ఈ వర్క్‌స్పేస్‌లో కొత్త జీవిత చక్ర మదింపు అధ్యయనాన్ని ప్రారంభించండి.",
+  "dashboard.noData.button": "మొదటి అధ్యయనాన్ని ప్రారంభించండి",
+  "login.title": "MetalliQ",
+  "login.subtitle": "AI-ఆధారిత లోహాల సుస్థిరత",
+  "login.signInPrompt": "అధికారిక పోర్టల్‌కు సైన్ ఇన్ చేయండి",
+  "login.signInUser": "వినియోగదారుగా సైన్ ఇన్ చేయండి (John Doe)",
+  "login.signInAdmin": "అడ్మిన్‌గా సైన్ ఇన్ చేయండి (Sarah Singh)",
+  "login.simulationNotice": "ఇది ఒక అనుకరణ లాగిన్. పాస్‌వర్డ్ అవసరం లేదు."
+}

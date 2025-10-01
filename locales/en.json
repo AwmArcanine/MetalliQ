@@ -1,0 +1,27 @@
+
+{
+  "sidebar.dashboard": "Dashboard",
+  "sidebar.newStudy": "New Study",
+  "sidebar.reports": "Reports",
+  "sidebar.compare": "Compare",
+  "sidebar.workspaceSettings": "Workspace Settings",
+  "sidebar.adminPanel": "Admin Panel",
+  "sidebar.workspaces": "Workspaces",
+  "header.title": "MetalliQ: AI-Powered Metals Sustainability",
+  "header.titleShort": "MetalliQ",
+  "header.welcome": "Welcome, {name}",
+  "header.logout": "Logout",
+  "dashboard.title": "{workspaceName} Dashboard",
+  "dashboard.subtitle": "Focusing on circular economy contributions for this workspace.",
+  "dashboard.newStudyButton": "+ New Study",
+  "dashboard.viewAllReportsButton": "View All Reports",
+  "dashboard.noData.title": "No data in '{workspaceName}' yet",
+  "dashboard.noData.subtitle": "Start a new Life Cycle Assessment study in this workspace to track your circularity metrics and see your environmental impact.",
+  "dashboard.noData.button": "Start First Study",
+  "login.title": "MetalliQ",
+  "login.subtitle": "AI-Powered Metals Sustainability",
+  "login.signInPrompt": "Sign in to the official portal",
+  "login.signInUser": "Sign In as User (John Doe)",
+  "login.signInAdmin": "Sign In as Admin (Sarah Singh)",
+  "login.simulationNotice": "This is a simulated login. No password is required."
+}

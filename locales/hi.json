@@ -1,0 +1,27 @@
+
+{
+  "sidebar.dashboard": "डैशबोर्ड",
+  "sidebar.newStudy": "नया अध्ययन",
+  "sidebar.reports": "रिपोर्ट्स",
+  "sidebar.compare": "तुलना करें",
+  "sidebar.workspaceSettings": "कार्यक्षेत्र सेटिंग्स",
+  "sidebar.adminPanel": "एडमिन पैनल",
+  "sidebar.workspaces": "कार्यक्षेत्र",
+  "header.title": "MetalliQ: एआई-संचालित धातु स्थिरता",
+  "header.titleShort": "MetalliQ",
+  "header.welcome": "नमस्ते, {name}",
+  "header.logout": "लॉग आउट",
+  "dashboard.title": "{workspaceName} डैशबोर्ड",
+  "dashboard.subtitle": "इस कार्यक्षेत्र के लिए परिपत्र अर्थव्यवस्था योगदान पर ध्यान केंद्रित करना।",
+  "dashboard.newStudyButton": "+ नया अध्ययन",
+  "dashboard.viewAllReportsButton": "सभी रिपोर्ट देखें",
+  "dashboard.noData.title": "'{workspaceName}' में अभी तक कोई डेटा नहीं है",
+  "dashboard.noData.subtitle": "अपनी परिपत्रता मेट्रिक्स को ट्रैक करने और अपने पर्यावरणीय प्रभाव को देखने के लिए इस कार्यक्षेत्र में एक नया जीवन चक्र मूल्यांकन अध्ययन शुरू करें।",
+  "dashboard.noData.button": "पहला अध्ययन शुरू करें",
+  "login.title": "MetalliQ",
+  "login.subtitle": "एआई-संचालित धातु स्थिरता",
+  "login.signInPrompt": "आधिकारिक पोर्टल पर साइन इन करें",
+  "login.signInUser": "उपयोगकर्ता के रूप में साइन इन करें (John Doe)",
+  "login.signInAdmin": "एडमिन के रूप में साइन इन करें (Sarah Singh)",
+  "login.simulationNotice": "यह एक नकली लॉगिन है। किसी पासवर्ड की आवश्यकता नहीं है।"
+}

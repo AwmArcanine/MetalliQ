@@ -1,0 +1,27 @@
+
+{
+  "sidebar.dashboard": "ড্যাশবোর্ড",
+  "sidebar.newStudy": "নতুন অধ্যয়ন",
+  "sidebar.reports": "রিপোর্ট",
+  "sidebar.compare": "তুলনা করুন",
+  "sidebar.workspaceSettings": "ওয়ার্কস্পেস সেটিংস",
+  "sidebar.adminPanel": "অ্যাডমিন প্যানেল",
+  "sidebar.workspaces": "ওয়ার্কস্পেস",
+  "header.title": "MetalliQ: এআই-চালিত ধাতু স্থায়িত্ব",
+  "header.titleShort": "MetalliQ",
+  "header.welcome": "স্বাগতম, {name}",
+  "header.logout": "লগ আউট",
+  "dashboard.title": "{workspaceName} ড্যাশবোর্ড",
+  "dashboard.subtitle": "এই ওয়ার্কস্পেসের জন্য সার্কুলার ইকোনমি অবদানের উপর ফোকাস করা হচ্ছে।",
+  "dashboard.newStudyButton": "+ নতুন অধ্যয়ন",
+  "dashboard.viewAllReportsButton": "সমস্ত রিপোর্ট দেখুন",
+  "dashboard.noData.title": "'{workspaceName}'-এ এখনও কোনও ডেটা নেই",
+  "dashboard.noData.subtitle": "আপনার সার্কুলারিটি মেট্রিক্স ট্র্যাক করতে এবং আপনার পরিবেশগত প্রভাব দেখতে এই ওয়ার্কস্পেসে একটি নতুন জীবন চক্র মূল্যায়ন অধ্যয়ন শুরু করুন।",
+  "dashboard.noData.button": "প্রথম অধ্যয়ন শুরু করুন",
+  "login.title": "MetalliQ",
+  "login.subtitle": "এআই-চালিত ধাতু স্থায়িত্ব",
+  "login.signInPrompt": "অফিসিয়াল পোর্টালে সাইন ইন করুন",
+  "login.signInUser": "ব্যবহারকারী হিসাবে সাইন ইন করুন (John Doe)",
+  "login.signInAdmin": "অ্যাডমিন হিসাবে সাইন ইন করুন (Sarah Singh)",
+  "login.simulationNotice": "এটি একটি সিমুলেটেড লগইন। কোন পাসওয়ার্ডের প্রয়োজন নেই।"
+}

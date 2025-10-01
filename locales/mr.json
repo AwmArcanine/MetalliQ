@@ -1,0 +1,27 @@
+
+{
+  "sidebar.dashboard": "डॅशबोर्ड",
+  "sidebar.newStudy": "नवीन अभ्यास",
+  "sidebar.reports": "अहवाल",
+  "sidebar.compare": "तुलना करा",
+  "sidebar.workspaceSettings": "वर्कस्पेस सेटिंग्ज",
+  "sidebar.adminPanel": "प्रशासक पॅनेल",
+  "sidebar.workspaces": "वर्कस्पेस",
+  "header.title": "MetalliQ: AI-चालित धातूंची टिकाऊपणा",
+  "header.titleShort": "MetalliQ",
+  "header.welcome": "स्वागत आहे, {name}",
+  "header.logout": "लॉग आउट",
+  "dashboard.title": "{workspaceName} डॅशबोर्ड",
+  "dashboard.subtitle": "या वर्कस्पेससाठी वर्तुळाकार अर्थव्यवस्थेच्या योगदानावर लक्ष केंद्रित करणे.",
+  "dashboard.newStudyButton": "+ नवीन अभ्यास",
+  "dashboard.viewAllReportsButton": "सर्व अहवाल पहा",
+  "dashboard.noData.title": "'{workspaceName}' मध्ये अद्याप डेटा नाही",
+  "dashboard.noData.subtitle": "तुमच्या वर्तुळाकार मेट्रिक्सचा मागोवा घेण्यासाठी आणि तुमचा पर्यावरणीय प्रभाव पाहण्यासाठी या वर्कस्पेसमध्ये नवीन जीवन चक्र मूल्यांकन अभ्यास सुरू करा.",
+  "dashboard.noData.button": "पहिला अभ्यास सुरू करा",
+  "login.title": "MetalliQ",
+  "login.subtitle": "AI-चालित धातूंची टिकाऊपणा",
+  "login.signInPrompt": "अधिकृत पोर्टलवर साइन इन करा",
+  "login.signInUser": "वापरकर्ता म्हणून साइन इन करा (John Doe)",
+  "login.signInAdmin": "प्रशासक म्हणून साइन इन करा (Sarah Singh)",
+  "login.simulationNotice": "हे एक सिम्युलेटेड लॉगिन आहे. पासवर्डची आवश्यकता नाही."
+}
